@@ -32,7 +32,7 @@ Preview Demo:
 
 ## Mobile Applications
 
-### Genesis (Dog Tick Classifier) – in development
+### Genesis (Dog Tick Classifier): `in development`
 
 ### Makaturismo
 

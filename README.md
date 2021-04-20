@@ -14,12 +14,12 @@ Preview Demo:
 ### [Rider Tracking System](https://rider-tracking-system-7a4c1.web.app/) (Covid Risk Assessment for Riders)
 
 Preview Demo:
-[![](./assets/rts_tn.jpg)](./assets/rts.mp4)
+[![](./assets/rts_tn.jpg)](https://user-images.githubusercontent.com/47204120/115470166-78af8780-a268-11eb-8005-3b36260085f4.mp4)
 
 ### [Joog Drive](https://portfolio-a03ed.web.app/) (File Storage)
 
 Preview Demo:
-[![](./assets/joog_drive_tn.jpg)](./assets/joog_drive.mp4)
+[![](./assets/joog_drive_tn.jpg)](https://user-images.githubusercontent.com/47204120/115470196-8533e000-a268-11eb-9e0b-9e46ab2441c3.mp4)
 
 ---
 

@@ -12,7 +12,7 @@ Preview Demo:
   <source src="./assets/luntian.mp4" type="video/mp4">
 </video>
 
-[![](./assets/luntian_tn.png)](https://user-images.githubusercontent.com/47204120/115469673-a8aa5b00-a267-11eb-99d7-62b2b9d3032e.mp4)
+[![](./assets/luntian_tn.png)](https://user-images.githubusercontent.com/47204120/115472568-b9a99b00-a26c-11eb-8e99-136096f9f695.mp4)
 
 ### [Joog](https://joog.uno/) (URL Shortener)
 

@@ -26,13 +26,17 @@ Preview Demo:
 
 Preview Demo:
 
-[![](./assets/joog_drive_tn.jpg)](https://user-images.githubusercontent.com/47204120/115470196-8533e000-a268-11eb-9e0b-9e46ab2441c3.mp4")
+[![](./assets/joog_drive_tn.jpg)](https://user-images.githubusercontent.com/47204120/115470196-8533e000-a268-11eb-9e0b-9e46ab2441c3.mp4)
 
 ---
 
 ## Mobile Applications
 
 ### Genesis (Dog Tick Classifier) – in development
+
+Preview Demo:
+
+[![](./assets/genesis_tn.png)](https://user-images.githubusercontent.com/47204120/115473086-a9de8680-a26d-11eb-8440-2aa3ba6e7aa2.mp4)
 
 ### Makaturismo
 

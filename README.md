@@ -9,7 +9,7 @@
 ### [Joog](https://joog.uno/) (URL Shortener)
 
 Preview Demo:
-<video width="100%" loop controls autoplya>
+<video width="100%" loop autoplay>
 
   <source src="./assets/joog.mp4" type="video/mp4">
 </video>
@@ -19,7 +19,7 @@ Preview Demo:
 ### [Rider Tracking System](https://rider-tracking-system-7a4c1.web.app/) (Covid Risk Assessment for Riders)
 
 Preview Demo:
-<video width="100%" loop controls autoplya>
+<video width="100%" loop autoplay>
 
   <source src="./assets/rts.mp4" type="video/mp4">
 </video>
@@ -29,7 +29,7 @@ Preview Demo:
 ### [Joog Drive](https://portfolio-a03ed.web.app/) (File Storage)
 
 Preview Demo:
-<video width="100%" loop controls autoplya>
+<video width="100%" loop autoplay>
 
   <source src="./assets/joog_drive.mp4" type="video/mp4">
 </video>

@@ -40,4 +40,6 @@ Preview Demo:
 
 ### Makaturismo
 
+[![](./assets/makaturismo_tn.png)](https://user-images.githubusercontent.com/47204120/115474457-093d9600-a270-11eb-9fdd-549be41b4170.mp4)
+
 ### HomeBuddy

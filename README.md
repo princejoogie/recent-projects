@@ -9,7 +9,10 @@
 ### [Joog](https://joog.uno/) (URL Shortener)
 
 Preview Demo:
-[![](./assets/joog_tn.png)](./assets/joog.mp4)
+<video autoplay loop muted playsinline width="100%">
+
+  <source src="./assets/joog.mp4" type="video/mp4">
+</video>
 
 ### [Rider Tracking System](https://rider-tracking-system-7a4c1.web.app/) (Covid Risk Assessment for Riders)
 

@@ -50,5 +50,8 @@ Preview Demo:
 
 [![home_buddy]](https://user-images.githubusercontent.com/47204120/115474609-62a5c500-a270-11eb-8e1a-e074100653a4.mp4)
 
+### uApp
 
+Preview Demo:
 
+[![uApp]](https://user-images.githubusercontent.com/47204120/115479631-67bc4180-a27b-11eb-99fe-52c298287d3b.mp4)
